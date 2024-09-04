@@ -1,8 +1,8 @@
 # Fashion Supply Chain Analytics
 
-## Project Summary
+## Objective
 
-This project involves analyzing and optimizing the supply chain for a fashion and beauty products company using SQL. The objective is to uncover key insights that enhance sales and streamline operations by leveraging data-driven strategies to improve business performance and profitability.
+The objective is to uncover key insights that enhance sales and streamline operations by leveraging data-driven strategies to improve business performance and profitability.
 
 ## Tools Used
 
